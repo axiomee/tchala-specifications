@@ -54,7 +54,7 @@ day, they are just basic ideas.
   . Users lose points for each downvote the questions (they posted) get $
 
 - COURSES
-  . They also get points for each upvote the course gets $
+  . Courses must be accompanied with a list of questions (related to the course) to test the student on what they just learned $
   . Users get points for each upvote the courses (they posted) get $
   . Users lose points for each downvote the courses (they posted) get $
 

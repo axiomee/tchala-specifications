@@ -1,8 +1,6 @@
 Tchala Features
 
-NOTE: All of those features are nice, but some of them are more important than others, so the ones marked with a $ (dollar
-sign) at the end are the most important ones. And it's possible that some of those features will never see the light of
-day, they are just basic ideas.
+NOTE: All of those features are nice, but some of them are more important than others, so the ones marked with a $ (dollar sign) at the end are the most important ones. And it's possible that some of those features will never see the light of day, they are just basic ideas.
 
 - LANGUAGES
   . The main language will be French $

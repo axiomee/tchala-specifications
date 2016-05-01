@@ -9,7 +9,8 @@ NOTE: All of those features are nice, but some of them are more important than o
   . Spanish
 
 - POINTS
-  . Points will matter a lot $
+  . Points will matter a lot. They will be used to motivate users and will be proof that a user is working hard or slacking behind $
+  . The amount of points of a user will always be public $
   . Users will earn points for different activities on the website $
   . Users will earn 10 points for posting validated questions $
   . Users will earn 5 points for posting vaidated translations of questions $
@@ -26,7 +27,7 @@ NOTE: All of those features are nice, but some of them are more important than o
   . There will be 3 ranks: Students, Teachers and GrandMasters $
   . Initially, everyone will be a Student $
   . Teachers can post courses and do everything a student can do $
-  . GrandMasters are like moderators, they decide if questions are worth being validated even if they reach the necessary amount of points. $
+  . GrandMasters are like moderators, they decide if questions are worth being validated even if they reach the necessary amount of points and they can do everything a teacher can do $
   . After posting one validated course or reaching 700 points, a student will be allowed to become a Teacher $
   . When teachers reach 15 validated courses or 10,000 points, they become GrandMasters $
   . Everyone can add questions or list of questions $
@@ -38,7 +39,7 @@ NOTE: All of those features are nice, but some of them are more important than o
 
 - USERS
   . Users will have a username, an email, a password and the rest will be optional $
-  . Users will be able to sign up and login with Google, Facebook, or email $
+  . Users will be able to sign up and login with Google, Facebook, or by email $
   . Users can add each other as friends
   . Users will be able to translate questions in another language $
 

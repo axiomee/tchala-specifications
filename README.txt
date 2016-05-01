@@ -9,7 +9,7 @@ NOTE: All of those features are nice, but some of them are more important than o
   . Spanish
 
 - POINTS
-  . Points will matter a lot. They will be used to motivate users and will be proof that a user is working hard or slacking behind $
+  . Points will major feature. They will be used to motivate users and will be proof that a user is working hard or slacking behind $
   . The amount of points of a user will always be public $
   . Users will earn points for different activities on the website $
   . Users will earn 10 points for posting validated questions $
